@@ -1,0 +1,31 @@
+#cabeceraweb{
+	background-color:green;
+}
+
+#nv1{
+	background-color:red 
+}
+
+#barralateral{
+	background-color:blue;
+	float:left;
+	height: 1000px
+}
+
+#contenidoprincipal{	
+	background-color:#0f0;
+	margin-left:200px;
+	padding-left: 15px;
+	padding-top: 5px
+}
+
+#pieprincipal{
+ 	background-color:#ff0;
+ 	clear:both;
+ 	margin-left:50px
+ }
+
+li{
+	background-color:#ff0;
+	display:inline 
+}
