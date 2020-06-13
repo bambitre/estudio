@@ -1,6 +1,6 @@
 function  ejecuta () {
     var z=document.getElementsByClassName("importante") [0].onclick=saludo;
-    // for (var i=0;i<3;i++){
+    //  for (var i=0;i<2;i++){
     //  document.getElementsByTagName("p") [i].onclick=saludo;
     }
     /* document.getElementsById("importante").onclick=saludo;*/
