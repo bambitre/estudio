@@ -1,2 +1,3 @@
-
-alert("hola amigo");
+function saludo () {
+    alert("hola amigo");
+}
