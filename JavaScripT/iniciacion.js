@@ -1,8 +1,8 @@
 function  ejecuta () {
-    var z=document.getElementsByClassName("importante") [0].onclick=saludo;
-    //  for (var i=0;i<2;i++){
-    //  document.getElementsByTagName("p") [i].onclick=saludo;
-    }
+
+  
+    //var z=document.getElementsByClassName("importante") [0].onclick=saludo;
+      for (var i=0;i<2;i++){
     /* document.getElementsById("importante").onclick=saludo;*/
 }
 function saludo () {
